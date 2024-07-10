@@ -1,10 +1,10 @@
 # Configure-DHCP-in-Windows
 
 ## Objectives:
-1. Locate and configure DHCP in Windows
+1. Locate and configure DHCP in Windows to obtain an IP address and DNS server address automatically
 
+**Dynamic Host Configuration Protocol, DHCP** is a protocol that automatically assigns IP addresses to devices on a network, which can simplify network management and reduce the likelihood of address conflicts.
 
-**Dynamic Host Configuration Protocol, DHCP** is a protocol that automatically assigns IP addresses to devices on a network, which can simplify network management and reduce the likelihood of address conflicts. In this exercise, you will learn how to configure a network adapter to obtain an IP address and DNS server address automatically using DHCP. By completing this exercise, you will gain a practical understanding of how to configure DHCP in a Windows environment.
 
 
 ## Objective 1: Locate and configure DHCP in Windows
